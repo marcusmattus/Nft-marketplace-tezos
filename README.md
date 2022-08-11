@@ -1,6 +1,6 @@
 # Nft-marketplace-tezos
 
-Smart contract - SmartPy
+
 
 This project was bootstrapped with Create React App.
 
